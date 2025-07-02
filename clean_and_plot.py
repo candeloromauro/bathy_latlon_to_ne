@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 import numpy as np
 from scipy.spatial import Delaunay
-#import matplotlib.pyplot as plt
-#from mpl_toolkits.mplot3d import Axes3D
 import trimesh
 import open3d as o3d
 import sys
